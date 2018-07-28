@@ -1,0 +1,1 @@
+hadoop fs -rmr /xml/s5/*
