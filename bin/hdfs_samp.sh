@@ -1,1 +1,1 @@
-hadoop fs -rmr /xyz/s1/*
+hadoop fs -ls /xyz/s1/
